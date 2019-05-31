@@ -31,11 +31,7 @@ urls:
     - text: About Me
       url: /about/
     - text: Publication
-      url: /publications/
-    - text: My Projects
-      url: /projects/
-    - text: Professional Service
-      url: /services/
+      url: /publications/ 
 
 url: "https://liana-lin.github.io"
 baseurl: ""
