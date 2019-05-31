@@ -66,7 +66,4 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 
 # your content post with markdown syntax goes here...
 ```
-
-### Contributing
-
-Feel free to [open a bug](https://github.com/agusmakmun/agusmakmun.github.io/issues) or [contribute to code](https://github.com/agusmakmun/agusmakmun.github.io/pulls)!
+ 
