@@ -1,7 +1,8 @@
 ---
 title: Publication
-permalink: /publication/
+permalink: /publications/
 ---
+
 
 For those interested in numbers, please see Liana's [google scholar citations profile](https://scholar.google.com/citations?user=zkWwUIMAAAAJ&hl=en).
 
