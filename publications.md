@@ -13,11 +13,11 @@ I include the links for all my papers. If you cannot access the papers, please l
 ### 2019
 _Cloud Readiness Planing Tool (CRPT): an AI-based Framework to Automate Migration Planning_<br>
 Chen Lin * , Hongtan Sun, Jinho Hwang, Maja Vukovic, John Rofrano<br>
-2019 IEEE CLOUD, 2019 ([Article coming soon ])
+IEEE CLOUD, 2019 ([Article Coming Soon ])
 
 _AI Planning for Cloud Migration_<br>
 Hongtan Sun, Maja Vukovic, John Rofrano, Chen Lin * <br>
-SPARK, 2019 ([Article coming soon ])
+SPARK, 2019 ([Article Coming Soon ])
 
 
 ### 2018
