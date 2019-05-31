@@ -23,11 +23,11 @@ SPARK, 2019 ([Article coming soon ])
 ### 2018
 _Early diagnosis and prediction of sepsis shock by combining static and dynamic information using convolutional-LSTM_<br>
 Chen Lin * , Anup Kalia, Jin Xiao, Maja Vukovic, Nikos Anerousis<br>
-IEEE ICWS, 2018 ([Article](https://ieeexplore.ieee.org/abstract/document/8456354))
+IEEE ICWS, 2018 ([Article](https://ieeexplore.ieee.org/abstract/document/8419365))
 
 _NL2API: A Framework for Bootstrapping Service Recommendation Using Natural Language Queries_<br>
 Chen Lin * , Yuan Zhang, Julie Ivy, Muge Capan, Ryan Arnold, Jeanne M Huddleston, Min Chi<br>
-IEEE ICHI, 2018 ([Article](https://ieeexplore.ieee.org/abstract/document/8419365))
+IEEE ICHI, 2018 ([Article](https://ieeexplore.ieee.org/abstract/document/8456354))
 
 _Comparisons of BKT, RNN and LSTM for Predicting Student Learning Gains_<br>
 Chen Lin * , Min Chi<br>
@@ -38,7 +38,7 @@ Ye Mao, Chen Lin * , M Chi<br>
 JEDM| Journal of Educational Data Mining, 2018 ([Article](https://jedm.educationaldatamining.org/index.php/JEDM/article/view/318))
 
 ### 2017
-_Lstm for septic shock: Adding unreliable labels to reliable predictions_<br>
+_LSTM for septic shock: Adding unreliable labels to reliable predictions_<br>
 Yuan Zhang, Chen Lin * , Min Chi, Julie Ivy, Muge Capan, Jeanne M Huddleston<br>
 IEEE Big Data, 2017 ([Article](https://ieeexplore.ieee.org/abstract/document/8258049))
 
