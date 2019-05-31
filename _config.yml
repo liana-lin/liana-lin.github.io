@@ -2,7 +2,7 @@ title: LianaHub
 description: My Personal Website
 author: Liana Lin
 github: https://github.ibm.com/Liana-Lin
-about: I'm a Research Staff Member at IBM T.J.Watson Research Center
+about: I'm a Research Staff Member at IBM T.J.Watson Research Center. I earned my Ph.D in Computer Science from North Carolina State University in 2017 under Dr.Min Chi.
 disqus_shortname: lianahub
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -16,14 +16,12 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-twitter
-      link: "#"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/chen-liana-lin-66541480/"
-    - icon: fa-stack-exchange
-      link: "#"
     - icon: fa-github
       link: "https://github.ibm.com/Liana-Lin"
+    - icon: fa-google_scholar
+      link: "https://scholar.google.com/citations?user=zkWwUIMAAAAJ&hl=en"
 
 share:
   twitter_username: github.io
@@ -34,8 +32,8 @@ urls:
       url: /about/
     - text: My Publication
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    - text: Professional Service
+      url: /services/
 
 url: "https://liana-lin.github.io"
 baseurl: ""
