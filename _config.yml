@@ -30,7 +30,9 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: My Publication
+    - text: Publication
+      url: /publications/
+    - text: My Projects
       url: /projects/
     - text: Professional Service
       url: /services/
