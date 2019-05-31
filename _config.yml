@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: LianaHub
+description: My Personal Website
+author: Liana Lin
+github: https://github.ibm.com/Liana-Lin
+about: I'm a Research Staff Member at IBM T.J.Watson Research Center
+disqus_shortname: lianahub
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -16,16 +16,14 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
       link: "#"
     - icon: fa-linkedin
-      link: "#"
+      link: "https://www.linkedin.com/in/chen-liana-lin-66541480/"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.ibm.com/Liana-Lin"
 
 share:
   twitter_username: github.io
@@ -34,12 +32,12 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
+    - text: My Publication
       url: /projects/
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://liana-lin.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
